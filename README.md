@@ -2,7 +2,7 @@
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
-
+# Date: 25/2/2025
 # AIM:
 To practice Linux Commands and Shell Scripting
 
